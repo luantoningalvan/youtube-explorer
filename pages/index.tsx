@@ -40,7 +40,7 @@ const Home: React.FC<IndexProps> = ({ videos, getChannelVideos }) => {
   const { channelVideos, video } = videos
 
   useEffect(() => {
-    getChannelVideos("UCbTAwyq6nWOLnFag-PR0XVw");
+    getChannelVideos("UCDG56nDKCg302lY6Lr_GOWg");
   }, []);
 
   const ListVideos = () => (
