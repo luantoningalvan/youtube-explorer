@@ -10,7 +10,7 @@
   "dependencies": {
     "@svgr/webpack": "^5.4.0",
     "isomorphic-unfetch": "^3.0.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "next": "9.5.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
